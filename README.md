@@ -28,29 +28,12 @@ A responsive personal finance management application built using React. It helps
 - Recharts
 - Browser localStorage
 
-## 📂 Project Structure
-
-```text
-Expense-Tracker/
-├── public/
-├── src/
-│   ├── components/
-│   ├── utils/
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   └── main.jsx
-├── index.html
-├── package.json
-└── README.md
-```
-
-## ⚙️ Installation and Setup
+## 📂 Installation and Setup
 
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/shivanipriyaks498-netizen/Expense-Tracker.git
 ```
 
 ### 2. Open the project folder
